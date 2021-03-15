@@ -1,6 +1,6 @@
 # Cart
 
-Cart is a php widget for calculate price.
+Cart is a php widget for the price calculation.
 
 ## Usage
 
